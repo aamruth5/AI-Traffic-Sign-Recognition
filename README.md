@@ -14,6 +14,7 @@ This dataset has more than 50,000 images of 43 classes.**
 ---
 - **Model Architecture Design**
 ConvNet follows these steps:
+
 **Layer 1 (Convolutional):** The output shape should be 28x28x6.
 **Activation.** Your choice of activation function.
 **Pooling.** The output shape should be 14x14x6.
